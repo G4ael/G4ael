@@ -16,17 +16,13 @@
 
 ###
 
-<br clear="both">
-
-<img data-importer="image" align="right" height="220" src="https://raw.githubusercontent.com/G4ael/img/refs/heads/main/ssstik.io_1784122341674.gif?token=GHSAT0AAAAAAECUCLLSCETMKBSQWHMZVGAQ2SXUA2A"  />
-
-###
-
 <div data-importer="stats" align="left">
   <img src="https://raw.githubusercontent.com/G4ael/G4ael/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false" height="200" alt="stats graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -46,6 +42,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+</div>
+
+###
+
+<img data-importer="image" align="right" height="220" src="https://raw.githubusercontent.com/G4ael/img/refs/heads/main/ssstik.io_1784122341674.gif?token=GHSAT0AAAAAAECUCLLS5DYWSC3B42PBW2GQ2SXULCQ"  />
+
+###
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/Gaell">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Gaell&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
