@@ -46,7 +46,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="220" src="https://raw.githubusercontent.com/G4ael/img/refs/heads/main/ssstik.io_1784122341674.gif?token=GHSAT0AAAAAAECUCLLS5DYWSC3B42PBW2GQ2SXULCQ" border-radius="5px" margin-right="100px"/>
+<img data-importer="image" align="right" height="220" src="aigis-final.gif" />
 
 ###
 
