@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<img data-importer="image" align="right" height="220" src="https://d3o8hbmq1ueggw.cloudfront.net/6pl4e%2Fpreview%2F79601101%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1784123395&Signature=H261TsPe9vWyMoP7c9zwPA9PcmEq-5McS7KAE6vZpI63gVAxKXgY7MhCW7cNUPNVi64yjWEMW7N4sAqBEDFqVuqozwT1zlTCx4skhrxW8lDOyvcyjb81h0y17g0PdM3eV3Q3MWCjJW~n5D3sP59sL0234yxpidOdxCxmuNlzaBhmQHNWfTBCXStp3IJAtXTxlz-o1GA8aXTttj6cuEU-~wXNAcw2gAvEM79fiFuJOsPMqRBChLTbenYtHI1iMPNHT-a0GXKTOh2DNlWpFBbb-~OadRBxbq2ZUJz0Aa-Q9ddYOexixQgbKFMhD~GWSoVt40CPm7fuu7q5x6favC3PGg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ"  />
+<img data-importer="image" align="right" height="220" src="[https://d3o8hbmq1ueggw.cloudfront.net/6pl4e%2Fpreview%2F79601101%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1784123395&Signature=H261TsPe9vWyMoP7c9zwPA9PcmEq-5McS7KAE6vZpI63gVAxKXgY7MhCW7cNUPNVi64yjWEMW7N4sAqBEDFqVuqozwT1zlTCx4skhrxW8lDOyvcyjb81h0y17g0PdM3eV3Q3MWCjJW~n5D3sP59sL0234yxpidOdxCxmuNlzaBhmQHNWfTBCXStp3IJAtXTxlz-o1GA8aXTttj6cuEU-~wXNAcw2gAvEM79fiFuJOsPMqRBChLTbenYtHI1iMPNHT-a0GXKTOh2DNlWpFBbb-~OadRBxbq2ZUJz0Aa-Q9ddYOexixQgbKFMhD~GWSoVt40CPm7fuu7q5x6favC3PGg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ](https://raw.githubusercontent.com/G4ael/img/refs/heads/main/ssstik.io_1784122341674.gif?token=GHSAT0AAAAAAECUCLLSCETMKBSQWHMZVGAQ2SXUA2A)"  />
 
 ###
 
