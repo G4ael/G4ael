@@ -46,7 +46,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="400" src="aigis-final.gif" />
+<img data-importer="image" align="right" height="250" src="aigis-final.gif" />
 
 ###
 
