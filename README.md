@@ -46,13 +46,13 @@
 
 ###
 
-<img data-importer="image" align="right" height="220" src="https://raw.githubusercontent.com/G4ael/img/refs/heads/main/ssstik.io_1784122341674.gif?token=GHSAT0AAAAAAECUCLLS5DYWSC3B42PBW2GQ2SXULCQ"  />
+<img data-importer="image" align="right" height="220" src="https://raw.githubusercontent.com/G4ael/img/refs/heads/main/ssstik.io_1784122341674.gif?token=GHSAT0AAAAAAECUCLLS5DYWSC3B42PBW2GQ2SXULCQ" border-radius="5px" margin-right="100px"/>
 
 ###
 
-<div data-importer="music" align="center">
+<div data-importer="music" align="left">
   <a href="https://open.spotify.com/user/psluazxncgypi6g2fn8cwcmvx">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=psluazxncgypi6g2fn8cwcmvx&count=5" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=psluazxncgypi6g2fn8cwcmvx&unique={true|1|on|yes}" alt="Spotify recently played" />
   </a>
 </div>
 
